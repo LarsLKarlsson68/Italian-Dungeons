@@ -1,6 +1,6 @@
 # -*- coding: latin_1 -*-
 
-# Run this file to run game
+# Run this file to run the game 
 
 import italian_dungeons, gameinterface
 import sys, pickle
