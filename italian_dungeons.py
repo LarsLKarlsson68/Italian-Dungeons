@@ -1,5 +1,6 @@
 # -*- coding: latin_1 -*-
 # The main game object, with the play method for the main game loop.
+# Has lots of useful stuff
 
 import sys
 import time
