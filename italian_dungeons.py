@@ -1,4 +1,5 @@
 # -*- coding: latin_1 -*-
+# The main game object, with the play method for the main game loop.
 
 import sys
 import time
