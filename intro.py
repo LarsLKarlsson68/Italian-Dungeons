@@ -1,6 +1,7 @@
 # -*- coding: latin_1 -*-
 
 # Run this file to run the game 
+# Sets up game window and lets user select a game.
 
 import italian_dungeons, gameinterface
 import sys, pickle
