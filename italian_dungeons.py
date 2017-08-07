@@ -1,5 +1,6 @@
 # -*- coding: latin_1 -*-
 # The main game object, with the play method for the main game loop.
+# the game object contains the current maps, player and vocabularies.
 
 import sys
 import time
