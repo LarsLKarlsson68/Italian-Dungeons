@@ -1,5 +1,5 @@
 # -*- coding: latin_1 -*-
-
+# Prepositions vocabulary
 prepositions = \
     {
         'in' : ('in(0)','to(0)','into'),
@@ -14,7 +14,7 @@ prepositions = \
         'fuori_di': 'out of',
         'sopra': ('above','over'),
         'sotto': ('under','below'),
-        'giù per': 'down',
+        'giÃ¹ per': 'down',
         'accanto_a': 'beside',
         'tra': ('between','among','in(2)'),
         'fra': ('between','among','in(2)'),
